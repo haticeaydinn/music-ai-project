@@ -18,7 +18,7 @@ This project helps users generate music using AI. It includes:
    ```
 2. Navigate to the folder:
    ```bash
-   cd your-repo
+   cd music-ai-project
    ```
 3. Create and activate a virtual environment:
    ```bash
@@ -44,4 +44,4 @@ This project is licensed under the MIT License.
 Feel free to contribute! Fork, create a branch, make changes, and submit a pull request.
 
 ## 📞 Contact
-Created by **Hatice Aydin** – Reach out on [LinkedIn](https://www.linkedin.com/in/haticeaydinn/).
+Created by **Hatice Aydin** – Reach out on [LinkedIn](https://www.linkedin.com/in/haticeaydinn).
