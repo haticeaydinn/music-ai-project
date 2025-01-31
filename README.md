@@ -44,4 +44,4 @@ This project is licensed under the MIT License.
 Feel free to contribute! Fork, create a branch, make changes, and submit a pull request.
 
 ## 📞 Contact
-Created by **Your Name** – Reach out on [LinkedIn](https://www.linkedin.com/in/haticeaydinn/).
+Created by **Hatice Aydin** – Reach out on [LinkedIn](https://www.linkedin.com/in/haticeaydinn/).
